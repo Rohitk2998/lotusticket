@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-01-14T12:35:42.427095",
+  "total_purchases": 102,
+  "total_transactions": 137,
+  "matches_found": 0,
+  "matches_updated": 0,
+  "unmatched_purchases": 0,
+  "errors": [
+    "can't subtract offset-naive and offset-aware datetimes"
+  ],
+  "matches": []
+}
