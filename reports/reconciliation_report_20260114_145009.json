@@ -1,0 +1,1355 @@
+{
+  "timestamp": "2026-01-14T14:50:09.331804",
+  "total_purchases": 1863,
+  "total_transactions": 501,
+  "matches_found": 96,
+  "matches_updated": 0,
+  "unmatched_purchases": 1767,
+  "errors": [],
+  "matches": [
+    {
+      "skybox_id": 348935363,
+      "reveal_id": 10477619,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349108921,
+      "reveal_id": 10492552,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349224904,
+      "reveal_id": 10492552,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349611778,
+      "reveal_id": 10492516,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349645891,
+      "reveal_id": 10492572,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349753616,
+      "reveal_id": 10492759,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349753777,
+      "reveal_id": 10492759,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349753859,
+      "reveal_id": 10492759,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349753949,
+      "reveal_id": 10492759,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349756399,
+      "reveal_id": 10492641,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349757347,
+      "reveal_id": 10492487,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349765485,
+      "reveal_id": 10492885,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349767754,
+      "reveal_id": 10492495,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349767859,
+      "reveal_id": 10492495,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349767974,
+      "reveal_id": 10492495,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349768089,
+      "reveal_id": 10492495,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349769113,
+      "reveal_id": 10492495,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349769191,
+      "reveal_id": 10492495,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349769277,
+      "reveal_id": 10492495,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349769424,
+      "reveal_id": 10492495,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349769655,
+      "reveal_id": 10492517,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349769705,
+      "reveal_id": 10492517,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349769772,
+      "reveal_id": 10492517,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349769838,
+      "reveal_id": 10492517,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349772939,
+      "reveal_id": 10492517,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349773246,
+      "reveal_id": 10492486,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349774428,
+      "reveal_id": 10492677,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349776907,
+      "reveal_id": 10492884,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349777415,
+      "reveal_id": 10492884,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349780878,
+      "reveal_id": 10492485,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349782586,
+      "reveal_id": 10492510,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349816687,
+      "reveal_id": 10492640,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349835681,
+      "reveal_id": 10492557,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349862538,
+      "reveal_id": 10492550,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349873026,
+      "reveal_id": 10492500,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349873737,
+      "reveal_id": 10492504,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349873984,
+      "reveal_id": 10492502,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349874201,
+      "reveal_id": 10492506,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349874657,
+      "reveal_id": 10492512,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349875001,
+      "reveal_id": 10492515,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349875180,
+      "reveal_id": 10492514,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349875384,
+      "reveal_id": 10492507,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349875594,
+      "reveal_id": 10492506,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349876052,
+      "reveal_id": 10492511,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349876312,
+      "reveal_id": 10492502,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349876503,
+      "reveal_id": 10492510,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349876745,
+      "reveal_id": 10492513,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349876973,
+      "reveal_id": 10492508,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349877443,
+      "reveal_id": 10492503,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349877675,
+      "reveal_id": 10492509,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": true
+      }
+    },
+    {
+      "skybox_id": 349881858,
+      "reveal_id": 10492556,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349919125,
+      "reveal_id": 10492483,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 349994492,
+      "reveal_id": 10492759,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350008284,
+      "reveal_id": 10492495,
+      "confidence": 0.8999999999999999,
+      "criteria": [
+        "amount_exact",
+        "date_same_day",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350082908,
+      "reveal_id": 10492640,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350200196,
+      "reveal_id": 10492483,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350201098,
+      "reveal_id": 10492559,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350202937,
+      "reveal_id": 10492572,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.009999999999999787,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350203048,
+      "reveal_id": 10492572,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.009999999999999787,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350203153,
+      "reveal_id": 10492572,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.009999999999999787,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350203259,
+      "reveal_id": 10492572,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.009999999999999787,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350222701,
+      "reveal_id": 10492552,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350229753,
+      "reveal_id": 10492572,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.009999999999999787,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350229826,
+      "reveal_id": 10492572,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.009999999999999787,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350229919,
+      "reveal_id": 10492572,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.009999999999999787,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350230023,
+      "reveal_id": 10492572,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.009999999999999787,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350257447,
+      "reveal_id": 10492759,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350257561,
+      "reveal_id": 10492759,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350257654,
+      "reveal_id": 10492759,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350257743,
+      "reveal_id": 10492759,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350257842,
+      "reveal_id": 10492759,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350257929,
+      "reveal_id": 10492759,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350258035,
+      "reveal_id": 10492759,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350258147,
+      "reveal_id": 10492759,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350266081,
+      "reveal_id": 10492808,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350266217,
+      "reveal_id": 10492808,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350295188,
+      "reveal_id": 10492677,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350370872,
+      "reveal_id": 10492608,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350390348,
+      "reveal_id": 10492552,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350403781,
+      "reveal_id": 10492677,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350453751,
+      "reveal_id": 10492483,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350453974,
+      "reveal_id": 10492483,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350454216,
+      "reveal_id": 10492693,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350462798,
+      "reveal_id": 10492608,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350462863,
+      "reveal_id": 10492608,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350462923,
+      "reveal_id": 10492608,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350463062,
+      "reveal_id": 10492608,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350467919,
+      "reveal_id": 10492517,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350468762,
+      "reveal_id": 10492517,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350468958,
+      "reveal_id": 10492517,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350469136,
+      "reveal_id": 10492517,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350475110,
+      "reveal_id": 10491330,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350478152,
+      "reveal_id": 10492572,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.009999999999999787,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350483968,
+      "reveal_id": 10492483,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350504354,
+      "reveal_id": 10492555,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    },
+    {
+      "skybox_id": 350523014,
+      "reveal_id": 10492693,
+      "confidence": 0.8,
+      "criteria": [
+        "amount_exact",
+        "date_within_3_days",
+        "last_four"
+      ],
+      "metadata": {
+        "amount_diff": 0.0,
+        "is_automated": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+
+╔═══════════════════════════════════════════════════════════════╗
+║           TRANSACTION RECONCILIATION REPORT                   ║
+╚═══════════════════════════════════════════════════════════════╝
+
+Timestamp: 2026-01-14T14:50:09.331804
+
+SUMMARY
+-------
+Total Purchases:        1863
+Total Transactions:     501
+Matches Found:          96
+Successfully Updated:   0
+Unmatched Purchases:    1767
+
+Success Rate:           5.2%
+
+MATCHED TRANSACTIONS
+-------------------
+
+- Purchase 348935363 ↔ Transaction 10477619
+  Confidence: 80.0%
+  Criteria: amount_exact, date_within_3_days, last_four
+
+- Purchase 349108921 ↔ Transaction 10492552
+  Confidence: 80.0%
+  Criteria: amount_exact, date_within_3_days, last_four
+
+- Purchase 349224904 ↔ Transaction 10492552
+  Confidence: 80.0%
+  Criteria: amount_exact, date_within_3_days, last_four
+
+- Purchase 349611778 ↔ Transaction 10492516
+  Confidence: 80.0%
+  Criteria: amount_exact, date_within_3_days, last_four
+
+- Purchase 349645891 ↔ Transaction 10492572
+  Confidence: 80.0%
+  Criteria: amount_exact, date_within_3_days, last_four
+
+- Purchase 349753616 ↔ Transaction 10492759
+  Confidence: 80.0%
+  Criteria: amount_exact, date_within_3_days, last_four
+
+- Purchase 349753777 ↔ Transaction 10492759
+  Confidence: 80.0%
+  Criteria: amount_exact, date_within_3_days, last_four
+
+- Purchase 349753859 ↔ Transaction 10492759
+  Confidence: 80.0%
+  Criteria: amount_exact, date_within_3_days, last_four
+
+- Purchase 349753949 ↔ Transaction 10492759
+  Confidence: 80.0%
+  Criteria: amount_exact, date_within_3_days, last_four
+
+- Purchase 349756399 ↔ Transaction 10492641
+  Confidence: 80.0%
+  Criteria: amount_exact, date_within_3_days, last_four
+
+... and 86 more matches
